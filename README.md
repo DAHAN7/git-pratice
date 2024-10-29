@@ -1,2 +1,31 @@
-This is a README file.
-Additional information for the project.# git-pratice
+**git-practice 저장소 README**
+
+**개요**
+
+이 저장소는 Git을 연습하기 위한 간단한 프로젝트입니다. `app.js` 파일에는 "Hello, World!"를 콘솔에 출력하는 JavaScript 코드가 포함되어 있습니다.
+
+**사용 방법**
+
+1. 저장소를 클론합니다.
+   ```bash
+   git clone https://github.com/사용자이름/git-practice.git
+   ```
+
+2. `app.js` 파일을 실행합니다.
+   ```bash
+   node app.js
+   ```
+
+**추가 정보**
+
+* 이 프로젝트는 Git의 기본적인 사용법을 익히는 데 도움이 됩니다.
+* `app.js` 파일을 수정하고 커밋하여 Git의 변경 사항 추적 기능을 연습할 수 있습니다.
+* 브랜치를 생성하고 병합하여 Git의 브랜치 관리 기능을 연습할 수 있습니다.
+
+**기여**
+
+이 프로젝트에 기여하고 싶다면, 자유롭게 이슈를 제기하거나 풀 리퀘스트를 보내주세요.
+
+**라이선스**
+
+이 프로젝트는 MIT 라이선스를 따릅니다.
